@@ -1,0 +1,24 @@
+{
+        "response": [
+                {
+                        "maintainer": "Amy Grace (00p513)",
+                        "oem": "Xiaomi",
+                        "device": "Redmi 5 Plus",
+                        "filename": "e-0.13-q-20201222-UNOFFICIAL-vince.zip",
+                        "download": "https://sourceforge.net/projects/amys-roms/files/e/e-0.13-q-20201222-UNOFFICIAL-vince.zip/download",
+                        "timestamp": 1608657764,
+                        "md5": "a2b9fdae5c5274d2ce9cd5a552420c91",
+                        "size": 693551367,
+                        "version": "0.13",
+                        "buildtype": "Weekly",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://paypal.me/anyGSI",
+                        "telegram": "https://t.me/e_os_for_vince"
+                }
+        ]
+}
